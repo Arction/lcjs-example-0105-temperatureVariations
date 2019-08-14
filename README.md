@@ -82,6 +82,6 @@ Direct developer email support can be purchased through a [Support Plan][4] or b
 [3]: https://stackoverflow.com/questions/tagged/lightningchart
 [4]: https://www.arction.com/support-services/
 
-[AreaPoint]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.0/interfaces/areapoint.html
-[AreaRangeSeries]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.0/classes/arearangeseries.html
-[ChartXY]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.0/classes/chartxy.html
+[AreaPoint]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.1/interfaces/areapoint.html
+[AreaRangeSeries]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.1/classes/arearangeseries.html
+[ChartXY]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.1/classes/chartxy.html
